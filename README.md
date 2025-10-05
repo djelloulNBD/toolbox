@@ -21,7 +21,7 @@ The application provides a clean, centered interface where users can:
 
 1. **Clone the repository**
    ```bash
-   git clone [<repository-url>](https://github.com/djelloulNBD/toolbox.git)
+   git clone https://github.com/djelloulNBD/toolbox.git
    cd toolbox
    ```
 
